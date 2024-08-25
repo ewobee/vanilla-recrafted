@@ -1,5 +1,6 @@
 <p align="center"><img src="https://github.com/user-attachments/assets/83fa17ee-2fda-4c78-9a21-abedf19636a9" alt="VANILLA RECRAFTED" width="75%"/></p>
 <hr>
+<p align="center"><a href="https://modrinth.com/resourcepack/ewobees-runic-enchanting"><img src="https://img.shields.io/badge/Modrinth-Download-1BD96A>" /></a></p>
 <h3><p align="center">Vanilla Recrafted is a resource pack centered around improving minecraft textures that I think are in need of improving.</p></h3>
 <hr>
 <p align="center"><img src="https://github.com/user-attachments/assets/1ba9446d-f7ae-459f-ac1d-9e354dd81d3d" alt="Features" width="32%"/></p>
