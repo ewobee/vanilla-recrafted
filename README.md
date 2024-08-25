@@ -8,7 +8,7 @@
 <div align="center">
 <details open>
 <summary><h3>Updated Textures</h3></summary>
-<p>Changes textures to fix what I find outdated or inconsistant</p>
+<p>Changes textures to fix what I find outdated or inconsistent</p>
 <p><img src="https://github.com/user-attachments/assets/9b9fa763-83ef-4d5e-ae48-02928873c31f" alt="Textures" width="75%"/></p>
 </details>
 </div>
@@ -25,7 +25,7 @@
 <div align="center">
 <details open>
 <summary><h3>Connected Textures</h3></summary>
-<p>If you have optifine or continuity, blocks will have connected textures.</p>
+<p>Blocks will have connected textures. (Requires <a href="https://optifine.net/downloads")>Optifine</a> or <a href="https://modrinth.com/mod/continuity">Continuity</a>)</p>
 <p><img src="https://github.com/user-attachments/assets/80775f81-4b0c-400b-a69d-168c489000a4" alt="Connected Slabs & Blocks" width="75%"/></p>
 </details>
 </div>
@@ -33,9 +33,9 @@
 <div align="center">
 <details open>
 <summary><h3>Custom Entity & Item Textures</h3></summary>
-<p><h3>Custom Entity Textures</h3>Entities can have different textures depending on biome.</p>
+<p><h3>Custom Entity Textures</h3>Entities can have different textures depending on biome. (Requires <a href="https://optifine.net/downloads")>Optifine</a> or <a href="https://modrinth.com/mod/entitytexturefeatures")>Entity Texture Features</a>)</p>
 <p><img src="https://github.com/user-attachments/assets/045ca171-834e-49f5-94e5-74313e34c5f0" alt="Different Biome Creepers" width="75%"/></p>
-<p><h3>Custom Item Textures</h3>Renamed items can have custom textures.</p>
+<p><h3>Custom Item Textures</h3>Renamed items can have custom textures. (Requires <a href="https://optifine.net/downloads")>Optifine</a> or <a href="https://modrinth.com/mod/cit-resewn">CIT Resewn</a>)</p>
 <p><img src="https://github.com/user-attachments/assets/7ff10e10-ec97-4689-a967-a6d7f70795d8" alt="CIT Examples" width="50%"/></p>
 </details>
 </div>
