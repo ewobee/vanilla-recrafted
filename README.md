@@ -1,25 +1,39 @@
-# EWOBEE'S OVERHAUL
-Ewobee's Overhaul is a resource pack centered around improving minecraft textures that I think are in need of improving.
-## Features
-### Updated Texutres
-Added new textures to fix what I find outdated or inconsistant
+<p align="center"><img src="https://github.com/user-attachments/assets/83fa17ee-2fda-4c78-9a21-abedf19636a9" alt="VANILLA RECRAFTED" width="75%"/></p>
+<hr>
+<h3><p align="center">Vanilla Recrafted is a resource pack centered around improving minecraft textures that I think are in need of improving.</p></h3>
+<hr>
+<p align="center"><img src="https://github.com/user-attachments/assets/1ba9446d-f7ae-459f-ac1d-9e354dd81d3d" alt="Features" width="32%"/></p>
 
-![image](https://github.com/ewobee/Ewobees-Overhaul/assets/80922756/a03aeeed-38d5-49b6-90b3-f3d3c3cdb790)
+<div align="center">
+<details open>
+<summary><h3>Updated Textures</h3></summary>
+<p>Changes textures to fix what I find outdated or inconsistant</p>
+<p><img src="https://github.com/user-attachments/assets/9b9fa763-83ef-4d5e-ae48-02928873c31f" alt="Textures" width="75%"/></p>
+</details>
+</div>
 
-### Better GUI
-Improved GUI in some areas
+<div align="center">
+<details open>
+<summary><h3>Improved GUI</h3></summary>
+<p>Improved GUI in some areas</p>
+<p><img src="https://github.com/user-attachments/assets/c2d7cf1e-6938-4dbe-a54e-da9f95ec320e" alt="Smoker" width="33%"/> <img src="https://github.com/user-attachments/assets/4fb0841d-64b5-4272-bd9d-fa71a22038ae" alt="Pink Shulker Box" width="33%"/></p>
+</details>
+</div>
 
-![image](https://github.com/ewobee/Ewobees-Overhaul/assets/80922756/af14bfa3-684f-425d-b870-314cd8febf4e)
-![image](https://github.com/ewobee/Ewobees-Overhaul/assets/80922756/4e7bd7bf-4e2d-4181-9190-4e835d3f2f05)
+<div align="center">
+<details open>
+<summary><h3>Connected Textures</h3></summary>
+<p>If you have optifine or continuity, blocks will have connected textures.</p>
+<p><img src="https://github.com/user-attachments/assets/80775f81-4b0c-400b-a69d-168c489000a4" alt="Connected Slabs & Blocks" width="75%"/></p>
+</details>
+</div>
 
-### Connected Textures
-If you have a mod like optifine or continuity, you will get connected textures on blocks.
-
-![image](https://github.com/ewobee/Ewobees-Overhaul/assets/80922756/06ccec29-2bfb-4cca-9704-14a2d38df0ca)
-
-### Custom Item Textures
-If you have mods such as optifine or CIT Resewn
-
-![image](https://github.com/ewobee/Ewobees-Overhaul/assets/80922756/f6619f77-35b9-4b66-b333-0de93563706d)
-
-This pack uses assets from [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/)
+<div align="center">
+<details open>
+<summary><h3>Custom Entity & Item Textures</h3></summary>
+<p><h3>Custom Entity Textures</h3>Entities can have different textures depending on biome.</p>
+<p><img src="https://github.com/user-attachments/assets/045ca171-834e-49f5-94e5-74313e34c5f0" alt="Different Biome Creepers" width="75%"/></p>
+<p><h3>Custom Item Textures</h3>Renamed items can have custom textures.</p>
+<p><img src="https://github.com/user-attachments/assets/7ff10e10-ec97-4689-a967-a6d7f70795d8" alt="CIT Examples" width="50%"/></p>
+</details>
+</div>
