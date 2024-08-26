@@ -3,7 +3,7 @@
 <p align="center"><a href="https://modrinth.com/resourcepack/vanilla-recrafted"><img src="https://img.shields.io/badge/Modrinth-Download-1BD96A>" /></a></p>
 <h3><p align="center">Vanilla Recrafted is a resource pack centered around improving Minecraft textures that I think are in need of improving.</p></h3>
 <hr>
-<p align="center"><img src="https://github.com/user-attachments/assets/1ba9446d-f7ae-459f-ac1d-9e354dd81d3d" alt="Features" width="32%"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/e7a213a7-eaf2-49ac-80d4-6d9ed7633048" alt="Features" width="32%"/></p>
 
 <div align="center">
 <details open>
