@@ -17,7 +17,7 @@
 <details open>
 <summary><h3>Improved GUI</h3></summary>
 <p>Improved GUI in some areas</p>
-<p><img src="https://github.com/user-attachments/assets/c2d7cf1e-6938-4dbe-a54e-da9f95ec320e" alt="Smoker" width="33%"/> <img src="https://github.com/user-attachments/assets/4fb0841d-64b5-4272-bd9d-fa71a22038ae" alt="Pink Shulker Box" width="33%"/></p>
+<p><img src="https://github.com/user-attachments/assets/33c759c2-ad57-4d7a-9ace-7d6d256a2e08" alt="Smoker" width="33%"/> <img src="https://github.com/user-attachments/assets/57116e79-a572-4637-b5c6-27ecc87e52a9" alt="Pink Shulker Box" width="33%"/></p>
 <p><img src="https://github.com/user-attachments/assets/31866030-08ab-44d3-bc64-61ed68cba7cf" alt="Hotbar" width="66%"/></p>
 </details>
 </div>
