@@ -1,0 +1,102 @@
+* = in progress
+0.4.0
+## Blocks
+- Added Connected Slabs
+## GUI
+- Changed GUI of Social Interactions
+- Changed GUI of Buttons & Sliders
+- Changed GUI of Furnace, Blast Furnace, & Smoker
+## Misc
+- Added to Modrinth & Github
+0.4.1
+### Blocks
+- Added Connected Textures for All Brick Types
+1.0.0
+### Items
+- Changed stick texture
+- Changed elytra texture
+- Changed bow & arrow texture
+- Changed ender pearl & ender eye texture
+- Changed sunflower item texture
+- Changed sign texture
+- Centered some item textures
+- Fixed fishing rod texture
+- Changed leather texture
+- Changed dragon egg item texture
+- Changed wheat seeds texture
+- Changed pointed dripstone texture
+- Changed bowl texture
+### Blocks
+- Changed dragon egg model & texture
+- Changed redstone torch texture
+### Entities
+- Changed ender dragon texture
+### GUI
+- Changed hotbar texture
+### Lang
+- Changed "Enchanting Table" to "Enchantment Table"
+- Changed "Bottle 'o Enchanting" to "Experience Bottle"
+### Misc
+- Changed pack icon
+1.0.1
+### Entities
+- Fixed leather tone on entity saddles
+1.1.0
+### Items
+- Changed sapling items to corrosponding seeds
+### Lang
+- Changed sapling seed name
+### GUI
+- Fixed brightness of buttons
+### Entities
+- Changed creepr texture
+- Added biome varients for creeper textures
+1.1.1
+### Blocks
+- Updated fences & fence gates
+- Changed oak, birch, crimson, & warped texture
+1.1.2
+### Blocks
+- Fixed prismarine brick slab side to better match quartz bricks
+- Fixed fletching table to better match new birch
+- Fixed bookshelfs to better match new oak
+- Fixed waterlogged leaves having a broken texture
+- Fixed soul campfire having a broken texture
+- Fixed dripleaf stem having a broken texture
+1.1.3
+### Models
+- Changed model for slim armor to make it slimmer
+### Blocks
+- Added connected textures for copper grates
+1.2.0
+### Blocks
+- Changed redstone torch texture to reflect the new texture on any version
+### Meta
+- Renamed Pack from Ewobee's Overhaul to Vanilla Recrafted
+1.2.1
+### Lang
+- Added extended enchantment numerals
+1.2.2
+### Entity
+- Added blaze texture from 24w34a
+### Misc
+- Removed Vanilla Tweaks features (if you want them back, head to [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/))
+1.2.3
+### Blocks
+- Added pixel consistant tripwire hooks
+- Added pixel consistant signs
+- Added pixel consistant beacons
+- Added pixel consistant gaurdian beams
+- Added pixel consistant experience orbs
+1.2.4
+### GUI
+- added dark mode GUI
+- added mod support for Axiom & Inventory Profiles Next
+### Items
+- Made bottle texture more vanilla-like
+- reversed saplings to seeds
+1.3*
+### Items
+- Added eating animations
+### Misc
+- Only compatabile with 24w25a
